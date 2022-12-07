@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\bin\Debug\DirectoryKlasa.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\bin\Debug\DirectoryKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\bin\Debug\DirectoryKlasa.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\obj\Debug\DirectoryKlasa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\obj\Debug\DirectoryKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\obj\Debug\DirectoryKlasa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\obj\Debug\DirectoryKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\DirectoryKlasa\obj\Debug\DirectoryKlasa.pdb
